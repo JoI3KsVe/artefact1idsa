@@ -1,3 +1,3 @@
 # Notes
-Password for the zip file is provided in the paper Appendix
-See README.md for details, after decrypting the zip file
+- The artifact is provided as a password-protected ZIP archive. Password is provided in the paper Appendix
+- After decryption, see README.md inside the archive for details
